@@ -44,20 +44,21 @@ body{
     background-color: aqua;
 }
 
-.c-acqua1{
-    width: 100%;
-    height: 80px;
+.c-acqua2{
+    width: 20%;
+    height: 400px;
     float: left;
     background-color: aqua;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .c-acqua3{
     height: 400px;
     width: calc( 60% - 60px );
-    margin-left: 30px;
-    margin-right: 30px;
     background-color: aqua;
     float: left;
+    margin: 30px;
 }
 
 footer{
